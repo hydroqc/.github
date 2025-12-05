@@ -1,117 +1,117 @@
 # Hydroqc
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/BTPDntfaXH)
-[![Website](https://img.shields.io/badge/Website-hydroqc.ca-blue)](https://hydroqc.ca)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-green)](https://github.com/hydroqc/hydroqc-ha/blob/main/LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Rejoignez--nous-5865F2?logo=discord&logoColor=white)](https://discord.gg/BTPDntfaXH)
+[![Website](https://img.shields.io/badge/Site-hydroqc.ca-blue)](https://hydroqc.ca)
+[![License](https://img.shields.io/badge/Licence-AGPL--3.0-green)](https://github.com/hydroqc/hydroqc-ha/blob/main/LICENSE)
 
-> **A collection of open-source tools to integrate your Hydro-Québec account with home automation platforms**
+> **Une collection d'outils open-source pour intégrer votre compte Hydro-Québec avec vos plateformes de domotique**
 >
-> *Une suite d'outils open-source pour intégrer votre compte Hydro-Québec avec vos plateformes de domotique*
+> *A collection of open-source tools to integrate your Hydro-Québec account with home automation platforms*
 
-## 🏠 About Hydroqc
+## 🏠 À propos d'Hydroqc
 
-Hydroqc is an open-source project that provides tools to access and monitor your Hydro-Québec electricity account information. Connect your account data to home automation systems like Home Assistant, enabling you to:
+Hydroqc est un projet open-source qui fournit des outils pour accéder et surveiller les informations de votre compte d'électricité Hydro-Québec. Connectez les données de votre compte à des systèmes de domotique comme Home Assistant, vous permettant de :
 
-- 📊 **Monitor consumption** - Track your electricity usage in real-time
-- 💰 **View billing information** - Check your balance and projected costs
-- ⚡ **Peak period alerts** - Get notifications for critical peak events
-- ❄️ **Winter credits** - Track your winter credit accumulation (DCPC rate)
-- 🚨 **Outage notifications** - Stay informed about power outages
-- 🏡 **Home automation** - Build automations based on your electricity data
+- 📊 **Surveiller la consommation** - Suivez votre consommation d'électricité en temps réel
+- 💰 **Consulter les informations de facturation** - Vérifiez votre solde et vos coûts projetés
+- ⚡ **Alertes de périodes de pointe** - Recevez des notifications pour les événements de pointe critique
+- ❄️ **Crédits hivernaux** - Suivez l'accumulation de vos crédits hivernaux (tarif DCPC)
+- 🚨 **Notifications de pannes** - Restez informé des pannes d'électricité
+- 🏡 **Automatisation résidentielle** - Créez des automatisations basées sur vos données d'électricité
 
-## 📦 Main Projects
+## 📦 Projets principaux
 
 ### [hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) ⭐
-**Home Assistant Integration for Hydro-Québec**
+**Intégration Home Assistant pour Hydro-Québec**
 
-A native Home Assistant component that provides comprehensive monitoring of your Hydro-Québec electricity accounts. Features include:
-- Full account integration (balance, consumption, billing)
-- Support for multiple rate plans (D, DT, DPC/Flex-D, M, M-GDP, DCPC/Winter Credits)
-- Peak period monitoring and critical peak alerts
-- Winter credit tracking
-- Outage notifications
-- Multi-contract support
-- Peak-only mode (no account credentials required)
+Composant natif pour Home Assistant permettant de surveiller vos comptes d'électricité Hydro-Québec. Les fonctionnalités incluent :
+- Intégration complète du compte (solde, consommation, facturation)
+- Support de multiples tarifs (D, DT, DPC/Flex-D, M, M-GDP, DCPC/Crédits hivernaux)
+- Surveillance des périodes de pointe et alertes de pointe critique
+- Suivi des crédits hivernaux
+- Notifications de pannes
+- Support multi-contrats
+- Mode pointes uniquement (aucun identifiant de compte requis)
 
-**Installation:** Available via [HACS](https://hacs.xyz/) or manual installation
+**Installation :** Disponible via [HACS](https://hacs.xyz/) ou installation manuelle
 
 ### [hydroqc.github.io](https://github.com/hydroqc/hydroqc.github.io)
-**Documentation Website**
+**Site web de documentation**
 
-Comprehensive documentation for all Hydroqc projects, available at [hydroqc.ca](https://hydroqc.ca)
+Documentation complète pour tous les projets Hydroqc, disponible sur [hydroqc.ca](https://hydroqc.ca)
 
 ### [hass-blueprint-hydroqc](https://github.com/hydroqc/hass-blueprint-hydroqc)
-**Home Assistant Blueprints**
+**Blueprints Home Assistant**
 
-Ready-to-use automation blueprints for Home Assistant to help you get started quickly with Hydroqc integrations.
+Blueprints d'automatisation prêts à l'emploi pour Home Assistant afin de démarrer rapidement avec les intégrations Hydroqc.
 
-## 🚀 Getting Started
+## 🚀 Démarrage
 
-1. **For Home Assistant users:**
-   - Install the [hydroqc-ha integration](https://github.com/hydroqc/hydroqc-ha) via HACS
-   - Follow the [installation guide](https://hydroqc.ca/docs/)
+1. **Pour les utilisateurs de Home Assistant :**
+   - Installez l'[intégration hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) via HACS
+   - Suivez le [guide d'installation](https://hydroqc.ca/docs/)
 
-2. **Explore the documentation:**
-   - Visit [hydroqc.ca](https://hydroqc.ca) for complete guides and tutorials
+2. **Explorez la documentation :**
+   - Visitez [hydroqc.ca](https://hydroqc.ca) pour des guides complets et des tutoriels
 
-3. **Join the community:**
-   - Connect with us on [Discord](https://discord.gg/BTPDntfaXH)
-   - Report issues on GitHub
-   - Contribute to the project
+3. **Rejoignez la communauté :**
+   - Connectez-vous avec nous sur [Discord](https://discord.gg/BTPDntfaXH)
+   - Signalez des problèmes sur GitHub
+   - Contribuez au projet
 
 ## 📚 Documentation
 
-- **Website:** [hydroqc.ca](https://hydroqc.ca)
-- **Installation guides:** Available for each project
-- **API documentation:** Check individual repositories
-- **FAQs:** Common questions and troubleshooting
+- **Site web :** [hydroqc.ca](https://hydroqc.ca)
+- **Guides d'installation :** Disponibles pour chaque projet
+- **Documentation de l'API :** Consultez les dépôts individuels
+- **FAQ :** Questions fréquentes et dépannage
 
-## 💬 Community & Support
+## 💬 Communauté et support
 
-- **Discord:** [Join our server](https://discord.gg/BTPDntfaXH) for support, discussions, and announcements
-- **Issues:** Report bugs or request features on the respective GitHub repositories
-- **Contributions:** Pull requests are welcome! Check our contribution guidelines in each repository
+- **Discord :** [Rejoignez notre serveur](https://discord.gg/BTPDntfaXH) pour le support, les discussions et les annonces
+- **Problèmes :** Signalez des bogues ou demandez des fonctionnalités sur les dépôts GitHub respectifs
+- **Contributions :** Les pull requests sont les bienvenues ! Consultez nos directives de contribution dans chaque dépôt
 
-## 🤝 Contributing
+## 🤝 Contribuer
 
-We welcome contributions from the community! Whether it's:
-- 🐛 Bug reports
-- 💡 Feature requests
-- 📝 Documentation improvements
-- 🔧 Code contributions
+Nous accueillons les contributions de la communauté ! Que ce soit :
+- 🐛 Rapports de bogues
+- 💡 Demandes de fonctionnalités
+- 📝 Améliorations de la documentation
+- 🔧 Contributions de code
 
-Check out individual repositories for specific contribution guidelines.
+Consultez les dépôts individuels pour les directives de contribution spécifiques.
 
-## 💖 Support the Project
+## 💖 Soutenir le projet
 
-If you find Hydroqc useful, consider supporting its development:
-- ⭐ Star our repositories
-- 💬 Share with the community
-- 💝 [Make a donation](https://hydroqc.ca/en/donations)
+Si vous trouvez Hydroqc utile, envisagez de soutenir son développement :
+- ⭐ Ajoutez une étoile à nos dépôts
+- 💬 Partagez avec la communauté
+- 💝 [Faire un don](https://hydroqc.ca/fr/dons)
 
-## 📋 Supported Rate Plans
+## 📋 Tarifs supportés
 
-The Hydroqc integration supports all major Hydro-Québec residential rate plans:
-- **Rate D** - Standard residential rate
-- **Rate DT** - Dual energy rate
-- **Rate DPC (Flex-D)** - Dynamic pricing with peak management
-- **Rate D + CPC** - Winter credits program
-- **Rate DCPC** - Combined dynamic pricing and winter credits
-- **Rate M** - Small business rate
-- **Rate M-GDP** - Large power business rate
+L'intégration Hydroqc supporte tous les principaux tarifs résidentiels d'Hydro-Québec :
+- **Tarif D** - Tarif résidentiel standard
+- **Tarif DT** - Tarif double énergie
+- **Tarif DPC (Flex-D)** - Tarification dynamique avec gestion des pointes
+- **Tarif D + CPC** - Programme de crédits hivernaux
+- **Tarif DCPC** - Tarification dynamique et crédits hivernaux combinés
+- **Tarif M** - Tarif petite entreprise
+- **Tarif M-GDP** - Tarif grande puissance
 
-## ⚠️ Disclaimer
+## ⚠️ Avertissement
 
-**This project is not affiliated with, endorsed by, or in any way officially connected with Hydro-Québec.**
+**Ce projet n'est pas affilié, approuvé ou officiellement connecté à Hydro-Québec.**
 
-All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+Tous les noms de produits et d'entreprises sont des marques de commerce™ ou des marques déposées® de leurs détenteurs respectifs. Leur utilisation n'implique aucune affiliation ou approbation de leur part.
 
-## 📄 License
+## 📄 Licence
 
-This project and its components are licensed under the AGPL-3.0 License. See individual repositories for specific license information.
+Ce projet et ses composants sont sous licence AGPL-3.0. Consultez les dépôts individuels pour les informations de licence spécifiques.
 
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by the Hydroqc community</strong>
+  <strong>Créé avec ❤️ par la communauté Hydroqc</strong>
 </p>
