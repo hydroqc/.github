@@ -1,8 +1,8 @@
 # Hydroqc
 
-[![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=white)](https://discord.gg/BTPDntfaXH)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/BTPDntfaXH)
 [![Website](https://img.shields.io/badge/Website-hydroqc.ca-blue)](https://hydroqc.ca)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-green)](https://github.com/hydroqc/hydroqc-ha/blob/main/LICENSE)
 
 > **A collection of open-source tools to integrate your Hydro-Québec account with home automation platforms**
 >
